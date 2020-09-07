@@ -1,2 +1,2 @@
 #!/bin/bash
-wasirun /Users/torch2424/Source/wasienv/examples/cpp/example-wasm.wasm "$@"
+wasirun /home/hassan/project/wasienv/examples/cpp/example-wasm.wasm "$@"
